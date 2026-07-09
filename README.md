@@ -24,7 +24,7 @@ The dashboard allows users to explore transactions using multiple filters and mo
 - Perform SQL-based exploratory analysis
 - Build interactive Power BI dashboards
 - Create business-friendly KPI reports
-- Practice real-world data analytics workflow
+
 
 ---
 
